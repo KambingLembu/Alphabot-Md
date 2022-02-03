@@ -1,5 +1,3 @@
-<Deploy>
-
 
 <p align="center">
 <img src="https://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
