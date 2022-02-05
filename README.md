@@ -1,6 +1,3 @@
-## `Deploy`
-[![Deploy]https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/subrek-ngab/)
-
 <p align="center">
 <img src="https://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
 
