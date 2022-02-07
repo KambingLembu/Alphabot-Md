@@ -1,6 +1,5 @@
-## ``Deploy``
-[![𝙳𝚎𝚙𝚕𝚘𝚢](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚑𝚎𝚛𝚘𝚔𝚞𝚌𝚍𝚗.𝚌𝚘𝚖/𝚍𝚎𝚙𝚕𝚘𝚢/𝚋𝚞𝚝𝚝𝚘𝚗.𝚜𝚟𝚐)](𝚑𝚝𝚝𝚙𝚜://𝚑𝚎𝚛𝚘𝚔𝚞.𝚌𝚘𝚖/𝚍𝚎𝚙𝚕𝚘𝚢?𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎=𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/zeeoneofc/Alphabot-Md)
-
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KambingLembu/Alphabot-Md)
 
 
 <p align="center">
